@@ -10,3 +10,7 @@ streamlit-option-menu==0.3.2
 streamlit-pandas-profiling==0.1.3
 XlsxWriter==3.0.9
 ydata-profiling==4.1.2
+mttkinter
+tkinter
+gower
+datetime
